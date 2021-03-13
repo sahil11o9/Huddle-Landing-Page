@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+.btn{
+    border: 2px solid red;
+    border-radius: 2rem;
+}
+.up h1{
+    font-size: 5rem;
+}
